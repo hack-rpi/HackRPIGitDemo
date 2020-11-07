@@ -1,0 +1,12 @@
+#Operating system files
+.DS_Store
+
+#Environmental files (potentially sensitive)
+.env
+
+#Packages
+node_modules/
+
+#Log files
+*.log
+
